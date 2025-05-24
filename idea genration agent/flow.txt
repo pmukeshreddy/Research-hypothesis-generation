@@ -1,0 +1,10 @@
+STAGE 1: 🧠 Insight Interpreter
+Converts raw insight into structured research opportunity
+STAGE 2: 💡 Idea Generator (LLM Expert)
+Creates innovative research concept with detailed methodology
+STAGE 3: 📊 Feasibility Assessor
+Evaluates practical constraints and implementation challenges
+STAGE 4: 🎯 Impact Predictor
+Predicts multi-dimensional impact across scientific, societal, commercial domains
+STAGE 5: 📝 Final Synthesis
+Combines all assessments into final recommendation
