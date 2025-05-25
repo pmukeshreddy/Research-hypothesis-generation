@@ -1,6 +1,6 @@
 class LLMFinal:
     def __init__(self):
-        self.llm_inference = LLMInterface(GOOGLE,"AIzaSyBiGVSuaYDOgo7f5pB64l25OlQGnTc9tdY")
+        self.llm_inference = LLMInterface(GOOGLE,"***************")
         self.insight_interpreter = LLMInsightInterpreter(self.llm_inference) # takes llm inisghts and converts to structured oppurtunities
         self.idea_genrator = LLMIdeaGenerator(self.llm_inference) # genrate and reaserach concept
         self.feasibility_assessor = LLMFeasibilityAssessor(self.llm_inference) # checks research feasabilty
